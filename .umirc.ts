@@ -1,13 +1,13 @@
 import { defineConfig } from 'dumi';
 
 export default defineConfig({
-  title: 'component-lib-demo',
+  title: 'component-lib',
   favicon:
     'https://user-images.githubusercontent.com/9554297/83762004-a0761b00-a6a9-11ea-83b4-9c8ff721d4b8.png',
   logo: 'https://user-images.githubusercontent.com/9554297/83762004-a0761b00-a6a9-11ea-83b4-9c8ff721d4b8.png',
   outputPath: 'docs-dist',
-  base: '/component-lib-demo/docs-dist/',
-  publicPath: '/component-lib-demo/docs-dist/',
+  base: '/component-lib/docs-dist/',
+  publicPath: '/component-lib/docs-dist/',
   history: {
     type: 'hash', // 设置路由模式为 hash 模式，防止部署至 GitHub Pages 后刷新网页后出现 404 的情况发生.
   },

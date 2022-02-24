@@ -1,4 +1,4 @@
-# component-lib-demo
+# component-lib
 
 ## Getting Started
 

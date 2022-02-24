@@ -12,7 +12,7 @@ Demo:
 
 ```tsx
 import React from 'react';
-import { MyButton } from 'component-lib-demo';
+import { MyButton } from './index.tsx';
 
 export default () => <MyButton />;
 ```

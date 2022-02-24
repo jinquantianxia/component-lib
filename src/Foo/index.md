@@ -12,7 +12,7 @@ Demo:
 
 ```tsx
 import React from 'react';
-import { Foo } from 'component-lib-demo';
+import { Foo } from './index.tsx';
 
 export default () => <Foo title="First Demo" />;
 ```
