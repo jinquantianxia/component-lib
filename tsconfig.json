@@ -11,8 +11,7 @@
     "declaration": true,
     "baseUrl": ".",
     "paths": {
-      "@src/*": ["src/*"],
-      "component-lib": ["src/index.ts"]
+      "@src/*": ["src/*"]
     }
   }
 }

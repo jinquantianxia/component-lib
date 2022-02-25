@@ -12,7 +12,7 @@ Demo:
 
 ```tsx
 import React from 'react';
-import { MyButton } from './index.tsx';
+import { MyButton } from '../index.ts';
 
 export default () => <MyButton />;
 ```
